@@ -1,0 +1,11 @@
+.main{
+    background-image: url(./assets/pexels-binyamin-mellish-186078.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 75%;
+    height: 490px;
+}
+.back{
+    background-color: rgb(239, 168, 54);
+}
